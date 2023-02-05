@@ -4,6 +4,8 @@ The project provides an overview of Programming Design Paradigm
 
 ![image](DesignPatterns.png) 
 
+![image](DesignPatternsJavaCertificate.jpg)
+
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
